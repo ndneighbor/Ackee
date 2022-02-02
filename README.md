@@ -1,4 +1,4 @@
-# Ackee example
+# Ackee examplee
 
 This example deploys self-hosted version of [Ackee](https://ackee.electerious.com/). Internally it uses a MongoDB database to store the collected data.
 
